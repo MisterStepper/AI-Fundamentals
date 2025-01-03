@@ -16,9 +16,27 @@ This module focuses entirely on the principles and concepts of AI, ML, and deep 
 
 You can start and stop the module at any time and pick up where you left off. There is no time limit or "grading," but you must complete all sections to have this module marked as complete in any paths you have chosen.
 
-The module is classified as "Medium" and assumes a working knowledge of the following topics:
-
-Basic Statistics (recommended)
-Linear Algebra (recommended)
-Calculus (recommended)
-Python Programming Fundamentals
+Module Sections
+ Introduction to Machine Learning
+ Mathematics Refresher for AI
+ Supervised Learning Algorithms
+ Linear Regression
+ Logistic Regression
+ Decision Trees
+ Naive Bayes
+ Support Vector Machines (SVMs)
+ Unsupervised Learning Algorithms
+ K-Means Clustering
+ Principal Component Analysis (PCA)
+ Anomaly Detection
+ Reinforcement Learning Algorithms
+ Q-Learning
+ SARSA (State-Action-Reward-State-Action)
+ Introduction to Deep Learning
+ Perceptrons
+ Neural Networks
+ Convolutional Neural Networks
+ Recurrent Neural Networks
+ Introduction to Generative AI
+ Large Language Models
+ Diffusion Models
