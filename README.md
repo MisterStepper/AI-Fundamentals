@@ -15,6 +15,12 @@ Generative AI: Concepts behind generative models, including large language model
 This module focuses entirely on the principles and concepts of AI, ML, and deep learning. It does not include practical exercises or hands-on assessments.
 
 You can start and stop the module at any time and pick up where you left off. There is no time limit or "grading," but you must complete all sections to have this module marked as complete in any paths you have chosen.
+The module is classified as "Medium" and assumes a working knowledge of the following topics:
+
+Basic Statistics (recommended)
+Linear Algebra (recommended)
+Calculus (recommended)
+Python Programming Fundamentals
 
 Module Sections
  Introduction to Machine Learning
